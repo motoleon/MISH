@@ -12,7 +12,8 @@ DESCRIPCIÓN GENERAL
 
 En los últimos años, el consumo de recursos en Windows ha ido creciendo de forma constante. El escritorio, los servicios asociados y las capas de experiencia de usuario aportan comodidad, pero también un coste claro en memoria RAM y uso de CPU, incluso cuando el usuario solo quiere una cosa: jugar.
 
-Microsoft es consciente de este problema y está empezando a moverse en esa dirección con iniciativas como Xbox Full Screen Experience. La idea es buena: reducir distracciones, simplificar la interfaz y acercar la experiencia de Windows a una consola. Sin embargo, en la práctica, este enfoque no elimina el problema de raíz. El shell tradicional sigue ahí, muchos procesos siguen cargados en segundo plano y el consumo de RAM apenas se reduce de forma significativa.
+Microsoft es consciente de este problema y está empezando a moverse en esa dirección con iniciativas como Xbox Full Screen Experience. La idea es buena: reducir distracciones, simplificar la interfaz y acercar la experiencia de Windows a una consola. 
+Sin embargo, en la práctica, este enfoque no elimina el problema de raíz. El shell tradicional sigue ahí, muchos procesos siguen cargados en segundo plano y el consumo de RAM apenas se reduce de forma significativa.
 
 Al mismo tiempo, el contexto del hardware no acompaña:
 
@@ -24,7 +25,7 @@ El resultado es un escenario poco ideal: sistemas operativos cada vez más pesad
 Este proyecto nace como una alternativa directa a ese modelo.
 Un shell mínimo, enfocado al rendimiento.
 
-La idea es simple: sustituir el shell de Windows por uno propio, desarrollado en PowerShell, eliminando todo lo que no sea estrictamente necesario para ejecutar juegos y aplicaciones. Menos shell implica:
+La idea es simple: sustituir el shell de Windows por uno propio, eliminando todo lo que no sea estrictamente necesario para ejecutar juegos y aplicaciones. Menos shell implica:
 
 - Menos procesos en segundo plano
 - Menor consumo de RAM
@@ -128,6 +129,7 @@ AUTOR
 Autor: MotoLeonX (ThunderDome)
 GitHub: https://github.com/motoleon
 Correo: motoleonx@gmail.com
+
 
 
 
