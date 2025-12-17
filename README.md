@@ -11,7 +11,7 @@ DESCRIPCIÓN GENERAL
 Windows utiliza "explorer.exe" como proceso principal para mostrar el escritorio, gestionar procesos de arranque, la barra de tareas y las ventanas del explorador. 
 Este proceso consume recursos constantemente, incluso cuando el usuario solo necesita ejecutar un videojuego o una aplicación pesada.
 
-PowerShell Gaming Shell reemplaza temporalmente el shell de Windows por un entorno mucho más ligero, centrado en lanzar programas o juegos, reduciendo el consumo de recursos 
+MISH reemplaza temporalmente el shell de Windows por un entorno mucho más ligero, centrado en lanzar programas o juegos, reduciendo el consumo de recursos 
 en segundo plano y mejorando la eficiencia general del sistema.
 
 ------------------------------------------------------------
@@ -98,4 +98,5 @@ AUTOR
 Autor: MotoLeonX (ThunderDome)
 GitHub: https://github.com/motoleon
 Correo: motoleonx@gmail.com
+
 
