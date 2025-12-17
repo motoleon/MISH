@@ -1,5 +1,5 @@
 MISH (MINI SHELL) ESCRITORIO MINIMO PARA GAMING (LOW RAM USE)
-=======================
+=============================================================
 
 Un shell alternativo para Windows, diseñado para reemplazar el escritorio (explorer.exe) y optimizar el uso de memoria RAM y CPU. 
 El objetivo es mejorar el rendimiento del sistema, especialmente durante sesiones de juego o en equipos con recursos limitados.
@@ -8,11 +8,37 @@ El objetivo es mejorar el rendimiento del sistema, especialmente durante sesione
 DESCRIPCIÓN GENERAL
 ------------------------------------------------------------
 
-Windows utiliza "explorer.exe" como proceso principal para mostrar el escritorio, gestionar procesos de arranque, la barra de tareas y las ventanas del explorador. 
-Este proceso consume recursos constantemente, incluso cuando el usuario solo necesita ejecutar un videojuego o una aplicación pesada.
+¿Por qué este proyecto?
 
-MISH reemplaza temporalmente el shell de Windows por un entorno mucho más ligero, centrado en lanzar programas o juegos, reduciendo el consumo de recursos 
-en segundo plano y mejorando la eficiencia general del sistema.
+En los últimos años, el consumo de recursos en Windows ha ido creciendo de forma constante. El escritorio, los servicios asociados y las capas de experiencia de usuario aportan comodidad, pero también un coste claro en memoria RAM y uso de CPU, incluso cuando el usuario solo quiere una cosa: jugar.
+
+Microsoft es consciente de este problema y está empezando a moverse en esa dirección con iniciativas como Xbox Full Screen Experience. La idea es buena: reducir distracciones, simplificar la interfaz y acercar la experiencia de Windows a una consola. Sin embargo, en la práctica, este enfoque no elimina el problema de raíz. El shell tradicional sigue ahí, muchos procesos siguen cargados en segundo plano y el consumo de RAM apenas se reduce de forma significativa.
+Al mismo tiempo, el contexto del hardware no acompaña:
+-Los precios de la memoria RAM siguen siendo elevados, especialmente en configuraciones DDR5.
+-Cada vez veremos más equipos con poca RAM, ya sea por costes, reutilización de hardware antiguo o dispositivos compactos.
+-Los juegos modernos consumen más memoria que nunca, y la optimización ya no es una prioridad para muchos estudios, que asumen configuraciones de gama media-alta como estándar.
+
+El resultado es un escenario poco ideal: sistemas operativos cada vez más pesados y juegos cada vez más exigentes, compitiendo por recursos limitados.
+Este proyecto nace como una alternativa directa a ese modelo.
+Un shell mínimo, enfocado al rendimiento.
+
+La idea es simple: sustituir el shell de Windows por uno propio, desarrollado en PowerShell, eliminando todo lo que no sea estrictamente necesario para ejecutar juegos y aplicaciones. Menos shell implica:
+-Menos procesos en segundo plano
+-Menor consumo de RAM
+-Menos carga innecesaria en CPU
+-Más recursos disponibles para el juego
+
+No pretende competir con la experiencia completa de Windows ni con soluciones comerciales, sino ofrecer una opción clara para quienes priorizan rendimiento sobre estética o funciones secundarias.
+Pensado para jugar, no para aparentar
+
+Este shell está orientado a:
+-PCs de gaming con RAM limitada
+-Equipos antiguos que aún tienen potencia gráfica y de CPU aprovechable
+-Usuarios que quieren exprimir cada MB de memoria
+-Entornos tipo “consola”, HTPC o máquinas dedicadas a jugar
+
+En lugar de añadir capas, animaciones o servicios, la filosofía es la contraria: quitar todo lo posible y dejar que el hardware se dedique a lo que importa.
+En un momento en el que el software asume cada vez más recursos como “mínimos”, este proyecto busca demostrar que todavía se puede ir en la dirección opuesta.
 
 ------------------------------------------------------------
 CARACTERÍSTICAS PRINCIPALES
@@ -98,5 +124,6 @@ AUTOR
 Autor: MotoLeonX (ThunderDome)
 GitHub: https://github.com/motoleon
 Correo: motoleonx@gmail.com
+
 
 
