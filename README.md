@@ -23,19 +23,21 @@ Este proyecto nace como una alternativa directa a ese modelo.
 Un shell mínimo, enfocado al rendimiento.
 
 La idea es simple: sustituir el shell de Windows por uno propio, desarrollado en PowerShell, eliminando todo lo que no sea estrictamente necesario para ejecutar juegos y aplicaciones. Menos shell implica:
--Menos procesos en segundo plano
--Menor consumo de RAM
--Menos carga innecesaria en CPU
--Más recursos disponibles para el juego
+
+- Menos procesos en segundo plano
+- Menor consumo de RAM
+- Menos carga innecesaria en CPU
+- Más recursos disponibles para el juego
 
 No pretende competir con la experiencia completa de Windows ni con soluciones comerciales, sino ofrecer una opción clara para quienes priorizan rendimiento sobre estética o funciones secundarias.
 Pensado para jugar, no para aparentar
 
 Este shell está orientado a:
--PCs de gaming con RAM limitada
--Equipos antiguos que aún tienen potencia gráfica y de CPU aprovechable
--Usuarios que quieren exprimir cada MB de memoria
--Entornos tipo “consola”, HTPC o máquinas dedicadas a jugar
+
+- PCs de gaming con RAM limitada
+- Equipos antiguos que aún tienen potencia gráfica y de CPU aprovechable
+- Usuarios que quieren exprimir cada MB de memoria
+- Entornos tipo “consola”, HTPC o máquinas dedicadas a jugar
 
 En lugar de añadir capas, animaciones o servicios, la filosofía es la contraria: quitar todo lo posible y dejar que el hardware se dedique a lo que importa.
 En un momento en el que el software asume cada vez más recursos como “mínimos”, este proyecto busca demostrar que todavía se puede ir en la dirección opuesta.
@@ -124,6 +126,7 @@ AUTOR
 Autor: MotoLeonX (ThunderDome)
 GitHub: https://github.com/motoleon
 Correo: motoleonx@gmail.com
+
 
 
 
