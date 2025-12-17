@@ -13,10 +13,12 @@ DESCRIPCIÓN GENERAL
 En los últimos años, el consumo de recursos en Windows ha ido creciendo de forma constante. El escritorio, los servicios asociados y las capas de experiencia de usuario aportan comodidad, pero también un coste claro en memoria RAM y uso de CPU, incluso cuando el usuario solo quiere una cosa: jugar.
 
 Microsoft es consciente de este problema y está empezando a moverse en esa dirección con iniciativas como Xbox Full Screen Experience. La idea es buena: reducir distracciones, simplificar la interfaz y acercar la experiencia de Windows a una consola. Sin embargo, en la práctica, este enfoque no elimina el problema de raíz. El shell tradicional sigue ahí, muchos procesos siguen cargados en segundo plano y el consumo de RAM apenas se reduce de forma significativa.
+
 Al mismo tiempo, el contexto del hardware no acompaña:
--Los precios de la memoria RAM siguen siendo elevados, especialmente en configuraciones DDR5.
--Cada vez veremos más equipos con poca RAM, ya sea por costes, reutilización de hardware antiguo o dispositivos compactos.
--Los juegos modernos consumen más memoria que nunca, y la optimización ya no es una prioridad para muchos estudios, que asumen configuraciones de gama media-alta como estándar.
+
+- Los precios de la memoria RAM siguen aumentando sin control, especialmente en configuraciones DDR5.
+- Cada vez veremos más equipos con poca RAM, ya sea por elevados costes, reutilización de hardware antiguo o imposibilidad de adquirirla.
+- Los juegos modernos consumen más memoria que nunca, y la optimización ya no es una prioridad para muchos estudios, que asumen configuraciones de gama media-alta como estándar.
 
 El resultado es un escenario poco ideal: sistemas operativos cada vez más pesados y juegos cada vez más exigentes, compitiendo por recursos limitados.
 Este proyecto nace como una alternativa directa a ese modelo.
@@ -126,6 +128,7 @@ AUTOR
 Autor: MotoLeonX (ThunderDome)
 GitHub: https://github.com/motoleon
 Correo: motoleonx@gmail.com
+
 
 
 
