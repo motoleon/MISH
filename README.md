@@ -1,7 +1,7 @@
 MISH (MINI SHELL) ESCRITORIO MINIMO PARA GAMING (LOW RAM USE)
 =======================
 
-Un shell alternativo para Windows, desarrollado en PowerShell, diseñado para reemplazar el escritorio (explorer.exe) y optimizar el uso de memoria RAM y CPU. 
+Un shell alternativo para Windows, diseñado para reemplazar el escritorio (explorer.exe) y optimizar el uso de memoria RAM y CPU. 
 El objetivo es mejorar el rendimiento del sistema, especialmente durante sesiones de juego o en equipos con recursos limitados.
 
 ------------------------------------------------------------
@@ -98,3 +98,4 @@ AUTOR
 Autor: MotoLeonX (ThunderDome)
 GitHub: https://github.com/motoleon
 Correo: motoleonx@gmail.com
+
