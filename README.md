@@ -1,7 +1,7 @@
 MISH (MINI SHELL) ESCRITORIO MINIMO PARA GAMING
 =============================================================
 
-Mish es un shell alternativo para Windows, diseñado para reemplazar el escritorio (explorer.exe) y optimizar el uso de memoria RAM y CPU. 
+MISH es un shell alternativo para Windows, diseñado para reemplazar el escritorio (explorer.exe) y optimizar el uso de memoria RAM y CPU. 
 El objetivo es mejorar el rendimiento del sistema, especialmente durante sesiones de juego o en equipos con recursos limitados.
 Se ahorra entre un 65% y un 75% de RAM y procesos en CPU, liberando de media entre 1gb y 3gb de RAM, y entre 45 y 60 procesos de CPU. En algunos sistemas incluso más.
 Permite que juegos muy pesados tengan más RAM para usar, como Tarkof o Fly simulator, disminuyendo el shuttering y paginación a disco, y aumentar por consiguiente los FPS y estabilidad.
@@ -129,6 +129,7 @@ AUTOR
 Autor: MotoLeonX (ThunderDome)
 GitHub: https://github.com/motoleon
 Correo: motoleonx@gmail.com
+
 
 
 
