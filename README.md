@@ -85,8 +85,8 @@ USO
 ------------------------------------------------------------
 
 Ejecutar el programa c:\mish\mish.exe
-
-Marcar el check si queremos que sea el shell en el arranque de windows.
+Marcar el check para que sea el shell en el arranque de windows.
+Reiniciar windows. Cuando arranque, MISH tomara el control y podremos usarlo como lanzador unico de aplicaciones y juegos.
 
 ------------------------------------------------------------
 RESTAURAR EL SHELL ORIGINAL DE WINDOWS/DESINSTALACION
@@ -100,6 +100,8 @@ DESINSTALACIÓN: Si no queremos que cargue MISH en el arranque de Windows, desma
 ADVERTENCIA
 ------------------------------------------------------------
 
+Estando el escritorio normal de windows, si ejecutamos C:\MISH\MISH.EXE, NO HABRA NINGUNA OPTIMIZACION DE NINGUN TIPO.
+La optimización sucede cuando windows arranca con MISH como escritorio (con el check que hemos comentado antes marcado).
 Este proyecto no modifica configuraciones avanzadas del sistema, es muy seguro. 
 Aún así, úsalo bajo tu propia responsabilidad.
 
@@ -127,6 +129,7 @@ AUTOR
 Autor: MotoLeonX (ThunderDome)
 GitHub: https://github.com/motoleon
 Correo: motoleonx@gmail.com
+
 
 
 
