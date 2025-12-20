@@ -20,9 +20,10 @@ Habra una actualización de windows, que ofrezca el menu de escritorio de la con
 Sin embargo, en la práctica, este enfoque no elimina el problema de raíz. El shell tradicional sigue ahí, muchos procesos siguen cargados en segundo plano y el consumo de RAM apenas se reduce de forma significativa.
 Igual que va ha hacer microsoft con Xbox Full Screen Experience, y con el mismo objetivo, pero de una forma mas sencilla y no invasiva (y seguramente, MISH sea mas efectivo).
 
-Al mismo tiempo, segun entramos en el nuevo año 2026, el contexto del hardware no acompaña:
+Al mismo tiempo, segun entramos en el nuevo año 2026, el contexto del hardware no acompaña. Las empresas fabricantes de chips de memoria se dedican a dar prioridad a los chips de memoria para la IA, porque les son mas rentables. 
+Los usuarios y compradores de electronica de consumo, se ven afectados:
 
-- Los precios de la memoria RAM siguen aumentando sin control, especialmente en configuraciones DDR5 (al igual que los SSD)
+- Los precios de la memoria RAM siguen aumentando sin control, especialmente en configuraciones DDR5 (al igual que los SSD) debido a su escasez y poca disponibilidad.
 - Cada vez veremos más equipos con poca RAM, ya sea por elevados costes, reutilización de hardware antiguo o imposibilidad de adquirirla.
 - Los juegos modernos consumen más memoria que nunca, y la optimización ya no es una prioridad para muchos estudios, que asumen configuraciones de gama media-alta como estándar.
 
@@ -126,6 +127,7 @@ AUTOR
 Autor: MotoLeonX (ThunderDome)
 GitHub: https://github.com/motoleon
 Correo: motoleonx@gmail.com
+
 
 
 
